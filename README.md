@@ -1,7 +1,7 @@
      
 
 <p align="center">
-     <img src="https://github.com/jhpenas/jhpenas/assets/64301697/b85e6f60-2b5b-473c-bca7-18720d5a38ff" width=2000>
+     <img src="https://github.com/jhpenas/jhpenas/assets/64301697/b85e6f60-2b5b-473c-bca7-18720d5a38ff" width=2000 heigh=100 >
 </p>
 
 
