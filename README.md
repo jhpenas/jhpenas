@@ -24,7 +24,7 @@
 
 ### Computer Vision
 * [**Chicken Detector**](https://github.com/jhpenas/chickenDetector)
-     * Application utilizing YOLO v8 developed for detection of chickens in video footage.
+     * Application utilizing YOLO v8 developed for detection and counting of chickens in video footage.
 
 ### Applications
 * [**Saurian Soccer Simulator**](https://github.com/jhpenas/saurianSoccerSimulator) 
