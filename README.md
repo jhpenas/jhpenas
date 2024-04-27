@@ -31,7 +31,7 @@
      * [CS50x Final Project](https://cs50.harvard.edu/x/2022/)
      * Web application made with Flask, CSS and HTML, with Machine Learning CatBoost Regressor Library to predict results for soccer matches and show some statistics.
      * [Video (English)](https://www.youtube.com/watch?v=7lDYlgxDh6Y)
-     * 
+       
 * [**BelaMansa**]([https://github.com/jhpenas/belaMansa) 
      * ERP-like Web application developed for BelaMansa snack bar in Caioba, Brazil with Flask, CSS and HTML.
 
