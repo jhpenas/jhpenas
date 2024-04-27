@@ -1,11 +1,8 @@
      
 
 <p align="center">
-     <img src="https://github.com/jhpenas/jhpenas/assets/64301697/adcbd757-4811-4d69-b730-521c0159e81c" width=2000 heigh=100 >
+     <img src="https://github.com/jhpenas/jhpenas/assets/64301697/d43b7f2b-c301-44aa-927f-8d5febb45476" width=2000 heigh=100 >
 </p>
-
-
-
 
 
 <sub>Engineer with a strong passion for Computer Vision, Machine Learning, Deep Learning and Data Science, adept at applying this knowledge to drive innovation in project development and optimize existing solutions.</sub>
