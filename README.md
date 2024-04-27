@@ -1,7 +1,7 @@
      
 
 <p align="center">
-  <img src="capa.png" width=2000>
+  ![_294ccf4d-31b6-468c-86cd-b28cd2fbf02a(3)](https://github.com/jhpenas/jhpenas/assets/64301697/c2daab83-e8e2-4420-941d-73843d8162b1)
 </p>
 
 
